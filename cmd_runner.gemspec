@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["denyago@gmail.com"]
   spec.description   = %q{Simple helper to run commands}
   spec.summary       = %q{Simple helper to run commands}
-  spec.homepage      = ""
+  spec.homepage      = 'https://github.com/denyago/cmd_runner'
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
